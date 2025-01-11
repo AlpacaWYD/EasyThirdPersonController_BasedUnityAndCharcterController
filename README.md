@@ -1,0 +1,2 @@
+# EasyThirdPersonController_BasedUnityAndCharcterController
+这是一个轻量化的无插件第三人称控制器，基于Unity的CharacterController组件！通过两个脚本进行控制。
